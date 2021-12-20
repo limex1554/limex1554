@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limex1554
 - 👀 I’m interested in ...languages, playing and watching football, calisthenics and martial arts (wing tsun)
-- 🌱 I’m currently learning ...economy at my university
+- 🌱 I’m currently learning ...quantitative methods in economics and information systems at my university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
